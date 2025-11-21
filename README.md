@@ -10,7 +10,7 @@ All of that to help them prepare for their exams. Not only can they participate 
 
 You can download the .apk by checking the releases of this repository !
 
-![Image Alt](https://github.com/sweethehe/Miwakplon/blob/6e0b329bf103b1d16f08dbf801240ced795bf394/miwakplon_presentation.png)
+![Image Alt](https://github.com/sweethehe/Miwakplon/blob/main/MiwaKplon_presentation.png)
 
 Please note that this application is not complete and may contain bugs. Thank you for your understanding <3
 
